@@ -15,7 +15,7 @@
             <RowDefinition Height="*"/>
             <RowDefinition Height="52"/>
         </Grid.RowDefinitions>
-        <ui:PdfView Grid.Row="0" Name="PdfView" License="xdlCE83_KJJAevzNtJ6ATXqrPJzFqQuvGd3ipIlnRG0pL1p8jonv0FBtLbFOC9t_YqohJqhiYaVoV097yN-_LckBKfg1PLPBqPiMK_g7wa40HXKPJ7_LattG7HP9B9EUDcRimhQa-1pw5qjQDjVrBLORtjIV9loa-F0BFDzKjIXGNASgkqSdgydy4plsHyj9d6sJP6UalZPPKr_zAO1FUjS8OA6XQC2rClJSUsMZcwFrfZYvp3uMC9AtmETyCXoU9PtbHVgW0rYSIs0-WYyxSo6DRrixFGKqGMTHlj3MmjCSgJliSVqJEwnlKSzb1JWukljESxCNSjOmSsAe-wF9gqnjnTm11ZzJUikfPpJNzNA1wK6JKFZJB-7K570grGRozKmsrc__g2vvrKSffYsvBYoyREpci2q7nQpMpZ-MHj6oyuBreEg-Y449o33P4IApu9KGPYxzhEQlF67k0SGmfDlyq0kmG6qFU-zFd0ZhNl-UTVF3f358ABtxporjrzUJjTuevhlEAMQzGEi6Kxpd5wwPx_8l4FKvQHxJajjjyJbx7gru4MGajSFtRP0AgRTA50K8GQAXPnIACHJt76bTd6Big1XBFBD2r8DKQU4vFVKyLvedjMLkz5nIhwYEpvHB1qAbdai7PHvaKXDmP-Mwry14qGhscPl6_x7ab-lgv_6cP0sS7eG1Mr6TW03xtv45OPxU5HydqOFuJIc1f2XdOSAJEeVy-F0qKtUlVHfNnXvUY6rZxo2ok1kpO3rSzK0-nNe05DYvuOS59QjOi5usPx39XhPUZNA_J0rEUhZVkdow6M1pHfNJz9Ce7KQdz0u9ypqrYZo4Cqh2GFHa8TOmVkJtNEvl3EM_i5JuM01x5A0=" />
+        <ui:PdfView Grid.Row="0" Name="PdfView" />
         <StackPanel Grid.Row="1" Orientation="Horizontal">
             <Button Content="Search" Margin="0,0,10,0" Name="Button_Search" Click="Button_Search_Click"/>
         </StackPanel>
